@@ -2,7 +2,7 @@
 
 Tulisan tentang Web Application Attack belum 100% selesai, tulisan yang baru ada :
 
-**XXE Injection**
+{% page-ref page="other-vulnerability/xxe-injection.md" %}
 
-[https://webhack.gitbook.io/web-application-hacking/other-vulnerability/xxe-injection](https://webhack.gitbook.io/web-application-hacking/other-vulnerability/xxe-injection)
+{% page-ref page="other-vulnerability/service-side-request-forgery/" %}
 
