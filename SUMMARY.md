@@ -10,11 +10,6 @@
   * [Boolean Based SQL Injection](common-web-vulnerability/sql-injection/boolean-based-sql-injection.md)
   * [Blind SQL Injection](common-web-vulnerability/sql-injection/blind-sql-injection.md)
 * [OS Command Injection](common-web-vulnerability/os-command-injection.md)
-* [LFI](common-web-vulnerability/lfi/README.md)
-  * [Log Poison](common-web-vulnerability/lfi/log-poison.md)
-  * [/proc/self/environ](common-web-vulnerability/lfi/proc-self-environ.md)
-  * [PHP:// Wrapper](common-web-vulnerability/lfi/php-wrapper.md)
-  * [ZIP:// Wrapper](common-web-vulnerability/lfi/zip-wrapper.md)
 
 ## Other Vulnerability
 
@@ -38,6 +33,11 @@
 
 ## PHP
 
+* [LFI](php/lfi/README.md)
+  * [Log Poison](php/lfi/log-poison.md)
+  * [/proc/self/environ](php/lfi/proc-self-environ.md)
+  * [PHP:// Wrapper](php/lfi/php-wrapper.md)
+  * [ZIP:// Wrapper](php/lfi/zip-wrapper.md)
 * [PHP Object Injection](php/php-object-injection/README.md)
   * [Phar:// Unserialize](php/php-object-injection/phar-unserialize.md)
 
