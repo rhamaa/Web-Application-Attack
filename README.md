@@ -8,3 +8,5 @@ Tulisan tentang Web Application Attack belum 100% selesai, tulisan yang baru ada
 
 {% page-ref page="other-vulnerability/service-side-request-forgery/ssrf-and-smtp.md" %}
 
+{% page-ref page="other-vulnerability/service-side-request-forgery/ssrf-and-redis.md" %}
+
