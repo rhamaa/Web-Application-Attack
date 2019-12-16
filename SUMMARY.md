@@ -22,7 +22,7 @@
   * [SSRF And FastCGI](other-vulnerability/service-side-request-forgery/ssrf-and-fastcgi.md)
   * [SSRF And Docker API](other-vulnerability/service-side-request-forgery/ssrf-and-docker-api.md)
   * [SSRF And SMTP](other-vulnerability/service-side-request-forgery/ssrf-and-smtp.md)
-  * [SSRF And MYSQL](other-vulnerability/service-side-request-forgery/ssrf-and-mysql.md)
+  * [SSRF And MySQL](other-vulnerability/service-side-request-forgery/ssrf-and-mysql.md)
   * [SSRF And Redis](other-vulnerability/service-side-request-forgery/ssrf-and-redis.md)
   * [SSRF And Memcached](other-vulnerability/service-side-request-forgery/ssrf-and-memcached.md)
 * [Server Side Template Injection](other-vulnerability/server-side-template-injection.md)
@@ -70,5 +70,6 @@
 
 * [Web Cache Deception](miscellaneous/web-cache-deception.md)
 * [Relative Path Overwrite \(RPO\)](miscellaneous/relative-path-overwrite.md)
-* [Mysql Client Attack](miscellaneous/mysql-client-attack.md)
+* [MySQL Client Attack](miscellaneous/mysql-client-attack.md)
+* [MySQL UDF Exploit](miscellaneous/mysql-udf-exploit.md)
 
