@@ -66,3 +66,9 @@
 
 * [Serverless Hacking](cloud-hacking/serverless-hacking.md)
 
+## Miscellaneous
+
+* [Web Cache Deception](miscellaneous/web-cache-deception.md)
+* [Relative Path Overwrite \(RPO\)](miscellaneous/relative-path-overwrite.md)
+* [Mysql Client Attack](miscellaneous/mysql-client-attack.md)
+
